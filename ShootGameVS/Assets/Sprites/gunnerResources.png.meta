@@ -1613,6 +1613,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 1p_scorePad
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1055
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137f4e92d5aa8a4caa8281acf843250
+      internalID: 197677322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2p_scorePad
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1055
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501d0d69d05fbc4687a21beb2793090
+      internalID: -1713014907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1640,6 +1682,7 @@ TextureImporter:
       1p_lose_3: 341534995
       1p_name: -1420419554
       1p_noAmmo: -1621172469
+      1p_scorePad: 197677322
       1p_shootFX_1: 572465978
       1p_shootFX_2: 1890026197
       1p_shoot_1: 1266280695
@@ -1665,6 +1708,7 @@ TextureImporter:
       2p_lose_3: -634868943
       2p_name: -553630963
       2p_noAmmo: 536557819
+      2p_scorePad: -931868601
       2p_shootFX_1: -1564493420
       2p_shootFX_2: -227912852
       2p_shoot_1: -243389583
@@ -1689,7 +1733,6 @@ TextureImporter:
       enemy_8: -1505688374
       enemy_9: 1485275585
       gameOver: -747855342
-      gunnerResources_1: -931868601
       gunnerResources_10: -1787493562
       gunnerResources_105: 337014417
       gunnerResources_106: 1707820275
