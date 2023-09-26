@@ -29,6 +29,6 @@ public class startUI : MonoBehaviour
 
     public void gameStart()
     {
-        SceneManager.LoadScene("waitingRoom");
+        SceneManager.LoadScene("gamePlay");
     }
 }
